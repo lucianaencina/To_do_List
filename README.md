@@ -1,5 +1,5 @@
 # To_do_List
-## Segundo proyecto realizado en Plataforma 5.
+## Proyecto incorporando JQuery.
 
 Aprendiendo a incoroporar JQuery. 
 
